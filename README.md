@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on improving my web development skills  
 - 🌱 I’m learning React, D3.js, and backend systems  
 - 💬 Ask me about JavaScript, Git, and front-end design  
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/indrik-maharjan-039192348)  
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/indrik-maharjan-039192348)
 - ⚡ Fun fact: I love Naruto-themed projects 🌀
 
 ---
@@ -17,8 +17,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrznindrik&layout=compact&theme=tokyonight)
 
 ---
-
-### Contribution Snake
-
-![Snake animation](https://mhrznindrik.github.io/snk/github-contribution-grid-snake.svg)
 
