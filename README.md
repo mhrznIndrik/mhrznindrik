@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on improving my web development skills  
 - 🌱 I’m learning React, D3.js, and backend systems  
 - 💬 Ask me about JavaScript, Git, and front-end design  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/mhrznindrik)  
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/indrik-maharjan-039192348)  
 - ⚡ Fun fact: I love Naruto-themed projects 🌀
 
 ---
