@@ -20,4 +20,5 @@
 
 ### Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake.svg)
+![Snake animation](https://mhrznindrik.github.io/snk/github-contribution-grid-snake.svg)
+
