@@ -25,9 +25,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhrznindrik&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrznindrik&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhrznindrik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrznindrik&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" height="165"/>
 </p>
+
 
 ---
 
